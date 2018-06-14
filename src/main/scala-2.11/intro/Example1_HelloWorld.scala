@@ -10,5 +10,5 @@ object Example1_HelloWorld {
   }
 }
 object Example_2 {
-  println("Welcome")
+  println("Welcome to Spark")
 }
