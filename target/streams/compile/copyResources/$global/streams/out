@@ -1,0 +1,4 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(D:\Development\workspace\scala-examples\src\main\resources\Mid_Cap_Stocks.csv,D:\Development\workspace\scala-examples\target\scala-2.11\classes\Mid_Cap_Stocks.csv)[0m
+[0m[[0mdebug[0m] [0m	(D:\Development\workspace\scala-examples\src\main\resources\REL.ser,D:\Development\workspace\scala-examples\target\scala-2.11\classes\REL.ser)[0m
+[0m[[0mdebug[0m] [0m	(D:\Development\workspace\scala-examples\src\main\resources\trade.txt,D:\Development\workspace\scala-examples\target\scala-2.11\classes\trade.txt)[0m
