@@ -17,3 +17,5 @@ run
 all {file:/D:/Development/workspace/scala-examples/}scala-examples/products {file:/D:/Development/workspace/scala-examples/}scala-examples/test:products
 run
 all {file:/D:/Development/workspace/scala-examples/}scala-examples/products {file:/D:/Development/workspace/scala-examples/}scala-examples/test:products
+run
+run 22

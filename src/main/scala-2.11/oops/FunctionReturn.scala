@@ -29,18 +29,18 @@ object FunctionReturn {
 
 
     println("Parameterise constru")
-    val obj = new ABC(100,200)
+    //val obj = new ABC(100,200)
 
   }
 }
 
 // default constructor Example
 
-class ABC(x:Int,y:Int){
-  def ShowNumber()={println {
-    "First Parameter =" + x + "\t Second Parameter" + y
-  }
-//    this{} // default
-  }
-}
+//class ABC(x:Int,y:Int){
+//  def ShowNumber()={println {
+//    "First Parameter =" + x + "\t Second Parameter" + y
+//  }
+////    this{} // default
+//  }
+//}
 

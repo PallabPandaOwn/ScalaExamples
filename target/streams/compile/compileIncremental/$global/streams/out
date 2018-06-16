@@ -2,28 +2,28 @@
 [0m[[0mdebug[0m] [0m[naha] Initial source changes: [0m
 [0m[[0mdebug[0m] [0m[naha] 	removed:Set()[0m
 [0m[[0mdebug[0m] [0m[naha] 	added: Set()[0m
-[0m[[0mdebug[0m] [0m[naha] 	modified: Set(D:\Development\workspace\scala-examples\src\main\scala-2.11\oops\AbstractClass_Trait.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] 	modified: Set(D:\Development\workspace\scala-examples\src\main\scala-2.11\intro\patternMatching_pallab.scala)[0m
 [0m[[0mdebug[0m] [0m[naha] Invalidated products: Set()[0m
 [0m[[0mdebug[0m] [0m[naha] External API changes: API Changes: Set()[0m
 [0m[[0mdebug[0m] [0m[naha] Modified binary dependencies: Set()[0m
-[0m[[0mdebug[0m] [0m[naha] Initial directly invalidated sources: Set(D:\Development\workspace\scala-examples\src\main\scala-2.11\oops\AbstractClass_Trait.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Initial directly invalidated sources: Set(D:\Development\workspace\scala-examples\src\main\scala-2.11\intro\patternMatching_pallab.scala)[0m
 [0m[[0mdebug[0m] [0m[naha] [0m
 [0m[[0mdebug[0m] [0m[naha] Sources indirectly invalidated by:[0m
 [0m[[0mdebug[0m] [0m[naha] 	product: Set()[0m
 [0m[[0mdebug[0m] [0m[naha] 	binary dep: Set()[0m
 [0m[[0mdebug[0m] [0m[naha] 	external source: Set()[0m
-[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(D:\Development\workspace\scala-examples\src\main\scala-2.11\oops\AbstractClass_Trait.scala)[0m
-[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(D:\Development\workspace\scala-examples\src\main\scala-2.11\oops\AbstractClass_Trait.scala)[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(D:\Development\workspace\scala-examples\src\main\scala-2.11\intro\patternMatching_pallab.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(D:\Development\workspace\scala-examples\src\main\scala-2.11\intro\patternMatching_pallab.scala)[0m
 [0m[[0minfo[0m] [0mCompiling 1 Scala source to D:\Development\workspace\scala-examples\target\scala-2.11\classes...[0m
 [0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.13:component from component compiler for Scala 2.11.8[0m
 [0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.13:component from component compiler for Scala 2.11.8[0m
-[0m[[0mdebug[0m] [0mRunning cached compiler 58aaf99d, interfacing (CompilerInterface) with Scala compiler version 2.11.8[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 18c9af47, interfacing (CompilerInterface) with Scala compiler version 2.11.8[0m
 [0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
 [0m[[0mdebug[0m] [0m	-bootclasspath[0m
 [0m[[0mdebug[0m] [0m	C:\Program Files\Java\jdk1.8.0_152\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_152\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_152\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_152\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_152\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_152\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_152\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_152\jre\classes;C:\Users\pallab.panda\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar[0m
 [0m[[0mdebug[0m] [0m	-classpath[0m
 [0m[[0mdebug[0m] [0m	D:\Development\workspace\scala-examples\target\scala-2.11\classes[0m
-[0m[[0mdebug[0m] [0mScala compilation took 0.39999701 s[0m
+[0m[[0mdebug[0m] [0mScala compilation took 0.44561269 s[0m
 [0m[[0mdebug[0m] [0m[naha] New invalidations:[0m
 [0m[[0mdebug[0m] [0m[naha] 	Set()[0m
 [0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set()[0m
