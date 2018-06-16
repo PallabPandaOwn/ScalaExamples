@@ -2,8 +2,6 @@ package oops
 
 object FunctionReturn {
   def main(args: Array[String]): Unit = {
-
-
      //Returning a Function to variable Example
     def AA(x:Int):Object=(i:Int)=>{
       if(x>1)
